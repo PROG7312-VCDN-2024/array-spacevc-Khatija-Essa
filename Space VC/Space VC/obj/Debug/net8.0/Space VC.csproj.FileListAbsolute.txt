@@ -1,0 +1,14 @@
+C:\Users\khati\Desktop\Visual Studio\Space VC\Space VC\bin\Debug\net8.0\Space VC.exe
+C:\Users\khati\Desktop\Visual Studio\Space VC\Space VC\bin\Debug\net8.0\Space VC.deps.json
+C:\Users\khati\Desktop\Visual Studio\Space VC\Space VC\bin\Debug\net8.0\Space VC.runtimeconfig.json
+C:\Users\khati\Desktop\Visual Studio\Space VC\Space VC\bin\Debug\net8.0\Space VC.dll
+C:\Users\khati\Desktop\Visual Studio\Space VC\Space VC\bin\Debug\net8.0\Space VC.pdb
+C:\Users\khati\Desktop\Visual Studio\Space VC\Space VC\obj\Debug\net8.0\Space VC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khati\Desktop\Visual Studio\Space VC\Space VC\obj\Debug\net8.0\Space VC.AssemblyInfoInputs.cache
+C:\Users\khati\Desktop\Visual Studio\Space VC\Space VC\obj\Debug\net8.0\Space VC.AssemblyInfo.cs
+C:\Users\khati\Desktop\Visual Studio\Space VC\Space VC\obj\Debug\net8.0\Space VC.csproj.CoreCompileInputs.cache
+C:\Users\khati\Desktop\Visual Studio\Space VC\Space VC\obj\Debug\net8.0\Space VC.dll
+C:\Users\khati\Desktop\Visual Studio\Space VC\Space VC\obj\Debug\net8.0\refint\Space VC.dll
+C:\Users\khati\Desktop\Visual Studio\Space VC\Space VC\obj\Debug\net8.0\Space VC.pdb
+C:\Users\khati\Desktop\Visual Studio\Space VC\Space VC\obj\Debug\net8.0\Space VC.genruntimeconfig.cache
+C:\Users\khati\Desktop\Visual Studio\Space VC\Space VC\obj\Debug\net8.0\ref\Space VC.dll
